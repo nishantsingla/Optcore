@@ -23,6 +23,6 @@ setup(
     install_requires=[
 	'Django>=1.6.1',
     ],
-    zip_safe=False,
+    zip_safe=False, 
     scripts=['optcoretech/manage.py'],
 )
